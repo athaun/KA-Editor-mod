@@ -1,0 +1,402 @@
+/* 
+
+Copy this stylesheet into a CSS injector (I recomend stylish available on chrome and firefox)
+
+*/
+
+.scratchpad-drag-handle {
+  width: 10px !important;
+}
+
+.wrap_15nf6rs {
+  margin: 0px !important;
+  max-width: 100% !important;
+}
+
+.wrapScratchpadBorder_1uba8nq {
+  border-radius: 0px !important;
+  border: none !important
+}
+
+.bodyWrapper_v0sft {
+  margin: 0px !important;
+}
+
+.wrapScratchpadBorder_74gnlm {
+  border: none !important;
+  border-radius: 0px !important;
+}
+
+.scratchpad-wrap-outer {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+._1wmv1t9a {
+	width:800px !important;
+}
+.scratchpad-editor-wrap {
+  min-height: 449px !important;
+  height: 90vh;
+  min-width:200vh !important;
+  /* =========================  change this to change the height of the editor  ================================== */
+  background: darkgrey;
+}
+
+
+
+
+
+
+.scratchpad-editor, .scratchpad-ace-editor, ._1dt2jo0k, .ace_editor, .ui-resizable, .ace-tm {
+	min-width:100% !important;
+	width: 100% !important;
+}
+._156p2dz {
+	min-width:100% !important;
+}
+
+#output-canvas, .scratchpad-canvas-wrap, ._fz3zdn {
+	position: fixed !important;
+	top: 2 !important;
+	right:0;
+	z-index: 999 !important;
+	/*margin:40px;*/
+	
+}
+
+.ace_content {
+
+    width:100% !important;
+}
+
+._1chbfei {
+	min-width:100% !important;
+}
+
+.scratchpad-canvas-wrap {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+#output {
+  border: rgb(214, 216, 218) 1px solid !important;
+  border-color: rgb(214, 216, 218) !important;
+  /*align-self:center !important;*/
+  width: 100% !important;
+}
+
+.footer_crtwg,
+.scratchpad-page .video-discussion .tab,
+.scratchpad-page .video-discussion .video-discussion-header {
+  max-width: 1000px !important;
+}
+
+.kui-survey {
+  visibility: hidden
+}
+
+.task-container .task-header .completion-progress-container .grid.incorrect {
+  color: #fff;
+  background-color: #e00;
+  border-color: #e00;
+}
+
+.task-container .task-header .completion-progress-container .grid.correct {
+  color: #fff;
+  background-color: #0e0;
+  border-color: #0e0;
+}
+
+#header-dropdown {
+  width: 1000px !important;
+  height: 500px !important;
+}
+
+.scrollDropdown_1jabbia {
+  height: 500px !important
+}
+
+.dropdown_14w4vnm-o_O-dropdownOpen_2jlos-o_O-dropdown_2oma9m,
+#header-dropdown {
+  width: 100% !important;
+  height: 800px !important;
+}
+
+.titleAndLogo_1em9xw1 .titleWrap_13hv8io {
+  color: lightgrey !important;
+}
+
+.titleAndLogo_1em9xw1 .editTitle_swrcbw .link_1uvuyao-o_O-computing_1uwg40u {
+  color: grey !important;
+}
+
+div .header_h0n39e {
+  padding: 0px;
+  margin: 0px;
+}
+
+.scratchpad-page {
+  background: black !important;
+}
+
+.bibliotron-scratchpad {
+  background: #262821 !important;
+}
+
+.computing-scratchpad {
+  background: #262821 !important;
+}
+
+.toolbarWrap_1sabkr5 {
+  background: #2E3029 !important;
+}
+
+.scratchpad-canvas-wrap,
+.canvasWrap_sggodd {
+  border: 1px solid #262821 !important;
+}
+
+.editor-ace {
+  background: #2E3029 !important;
+  color: white !important;
+}
+
+.wrapScratchpadOuter_2mcs2o-o_O-wrapScratchpadBorder_1fpfmhi {
+  border: 0px solid #262821 !important;
+}
+
+.scratchpad-editor,
+.scratchpad-ace-editor,
+.inputFrame_mvl0sr-o_O-noBorder_z3ooh2,
+.ace_editor,
+.ui-resizable,
+.ace-tm {
+  border: 1px solid black !important;
+}
+
+.scratchpad-editor-wrap,
+.overlay-container,
+.editorWrap_7x4jpd {
+  border: 0px solid red !important;
+}
+
+.scratchpad-editor-wrap,
+.overlay-container,
+.editorWrap_7x4jpd,
+.scratchpad-editor-tabs,
+.editorContainer_ws1jdg-o_O-noBorder_z3ooh2 {
+  border: 0px solid red !important;
+}
+
+.replies-panel,
+.video-discussion,
+.discussions-expanded {
+  color: black !important;
+  background: lightgrey !important;
+  padding: 20px;
+  margin-left: 20px !important;
+  margin: 20px !important;
+  border-radius: 25px;
+  box-shadow: 0px 0px 4000px white
+}
+
+/*.cz-color-4473924{
+                background:#2E3029;
+}*/
+
+.about_544kid {
+  color: white !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(2)>span {
+  padding-top: 20px !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(2)>a {
+  color: white !important;
+  text-decoration: underline !important;
+}
+
+#tutorial-content>div>div>div>div>div:nth-child(1)>div>div>div>div.titleAndLogo_1em9xw1>h1>span {
+  color: white !important;
+}
+
+#output>div.tipbar.ui-draggable>div.error-buddy {
+  background: url("http://www.iconsplace.com/download/red-error-512.png") no-repeat !important;
+  background-size: 100px !important;
+  background-position: right;
+  margin-left: 20px !important;
+  margin-top: 10px !important;
+}
+
+#output>div.tipbar.ui-draggable>div.text-wrap>div.oh-no {
+  display: none;
+}
+
+#output>div.tipbar.ui-draggable>div.text-wrap>div.message>span {
+  color: black;
+}
+
+#output>div.tipbar.ui-draggable>div.text-wrap>div.show-me>a {
+  color: black;
+}
+
+#output>div.tipbar.ui-draggable {
+  box-shadow: 3px 3px 5px #aaaaaa;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.left_bd061h>div>div>a>img {
+  display: none;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.left_bd061h>div>div>div>img {
+  display: none;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.left_bd061h>a {
+  display: none !important;
+}
+
+/** ===============  this following css tag hides the "toggle dark theme " =========   ====================== */
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.right_piqaq3>span.pull-right>a {
+  display: none !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div:nth-child(2)>div>div.main-discussion-guidelines.discussion-guidelines,
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div:nth-child(2)>div>div.main-discussion-guidelines.discussion-guidelines>div:nth-child(1),
+.discussion-guidelines-header {
+  color: white;
+}
+
+.main-discussion-guidelines a,
+.discussion-guidelines a {
+  color: grey !important;
+}
+
+.discussion-guidelines-subheader {
+  color: white;
+}
+
+#page-container {
+  background: #2E3029;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.license>ul>li:nth-child(1),
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.license>ul>li:nth-child(2),
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.license>ul>li:nth-child(3) {
+  text-align: center;
+}
+
+.discussion-author,
+.comment,
+.discussion-item,
+.is-author,
+.sum-votes,
+.discussion-vote {
+  color: black !important;
+}
+
+.discussion-meta-faded {
+  display: none;
+}
+
+#tutorial-content>div>div>div>div>div:nth-child(1)>div>div>div>div.titleAndLogo_1em9xw1>h1>span>span.modalWrap_ov690b>div>div.modal_1lylzj-o_O-padded_ke4dn3-o_O-forceTop_1ivj1vx,
+#modalTitle,
+.footer_y4wzgs,
+.modal_1lylzj-o_O-padded_ke4dn3,
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div.buttons_vponqv>span:nth-child(2)>div>div>a {
+  background: grey !important;
+  color: white !important;
+}
+
+.link_1uvuyao-o_O-computing_1uwg40u,
+.link_1uvuyao-o_O-computing_1uwg40u:hover {
+  color: white !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div.buttons_vponqv>span:nth-child(2)>div>div>a {
+  border-color: white !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div {
+  width: 100% !important;
+}
+
+.ace_content {
+  width: 10000px !important;
+}
+
+.tabContent_8fl3ak {
+  color: white !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(2) {
+  color: white;
+}
+
+#tutorial-content>div>div>div>div {
+  width: 100%;
+}
+
+#top-header-container>div>nav>div>div.headerSection_hvrboe-o_O-grow_10oodw2-o_O-alignRight_1ebgk80>a {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+#top-header-container>div>nav>div>div.headerSection_hvrboe-o_O-grow_10oodw2-o_O-alignLeft_1maz0e>div.searchWrapper_2uqe1i>a {
+  display: none !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-canvas-wrap.canvasWrap_sggodd {
+  position: absolute;
+  z-index: 999;
+  right: 0;
+  margin-top: 40px;
+  margin-right: 10px;
+}
+
+.toolbar_y6hf3w a {
+  position: absolute !important;
+  z-index: 1000 !important;
+  margin-top: 800px;
+  margin-right: 10px !important;
+  right: 0;
+  top: 0 !important;
+  color: white !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.left_bd061h>div>div>a {
+  display: none !important;
+}
+
+.toolbar_y6hf3w a:hover {
+  color: lightgrey !important;
+}
+
+/* stuff to hide */
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.right_piqaq3>span:nth-child(2)>span:nth-child(1)>a,
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.right_piqaq3>span:nth-child(2)>span:nth-child(2)>a,
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.right_piqaq3>span:nth-child(1)>span:nth-child(1)>a,
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div>div>div.scratchpad-editor-wrap.overlay-container.editorWrap_7x4jpd>div.toolbarWrap_1sabkr5>div>div.right_piqaq3>span:nth-child(1)>span:nth-child(2)>a,
+.license,
+#footer>footer,
+#scratchpad-tabs>a:nth-child(4),
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(1)>div>div:nth-child(1)>div>h3,
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(1)>div,
+#scratchpad-tabs>a:nth-child(2),
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.separator_rof3gv {
+  display: none !important;
+}
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(3),
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(3)>a {
+  color: white !important;
+}
+
+/*hide ka extension program info*/
+
+#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(3)>span {
+  display: none !important;
+}
