@@ -6,3 +6,5 @@ Using a css style injector, I reccomend using stylish, copy the [CSS](https://gi
 ## Stylish links for
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 * [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
+
+## For an even better experience, use this in conjunction with the [KA Extension](https://github.com/ka-extension/ka-extension-ts)
