@@ -39,7 +39,6 @@ Copy this stylesheet into a CSS injector (I recomend stylish available on chrome
   height: 90vh;
   min-width:200vh !important;
   /* =========================  change this to change the height of the editor  ================================== */
-  background: darkgrey;
 }
 
 
@@ -95,18 +94,6 @@ Copy this stylesheet into a CSS injector (I recomend stylish available on chrome
   visibility: hidden
 }
 
-.task-container .task-header .completion-progress-container .grid.incorrect {
-  color: #fff;
-  background-color: #e00;
-  border-color: #e00;
-}
-
-.task-container .task-header .completion-progress-container .grid.correct {
-  color: #fff;
-  background-color: #0e0;
-  border-color: #0e0;
-}
-
 #header-dropdown {
   width: 1000px !important;
   height: 500px !important;
@@ -135,30 +122,10 @@ div .header_h0n39e {
   margin: 0px;
 }
 
-.scratchpad-page {
-  background: black !important;
-}
-
-.bibliotron-scratchpad {
-  background: #262821 !important;
-}
-
-.computing-scratchpad {
-  background: #262821 !important;
-}
-
-.toolbarWrap_1sabkr5 {
-  background: #2E3029 !important;
-}
 
 .scratchpad-canvas-wrap,
 .canvasWrap_sggodd {
   border: 1px solid #262821 !important;
-}
-
-.editor-ace {
-  background: #2E3029 !important;
-  color: white !important;
 }
 
 .wrapScratchpadOuter_2mcs2o-o_O-wrapScratchpadBorder_1fpfmhi {
@@ -188,22 +155,6 @@ div .header_h0n39e {
   border: 0px solid red !important;
 }
 
-.replies-panel,
-.video-discussion,
-.discussions-expanded {
-  color: black !important;
-  background: lightgrey !important;
-  padding: 20px;
-  margin-left: 20px !important;
-  margin: 20px !important;
-  border-radius: 25px;
-  box-shadow: 0px 0px 4000px white
-}
-
-/*.cz-color-4473924{
-                background:#2E3029;
-}*/
-
 .about_544kid {
   color: white !important;
 }
@@ -222,9 +173,6 @@ div .header_h0n39e {
 }
 
 #output>div.tipbar.ui-draggable>div.error-buddy {
-  background: url("http://www.iconsplace.com/download/red-error-512.png") no-repeat !important;
-  background-size: 100px !important;
-  background-position: right;
   margin-left: 20px !important;
   margin-top: 10px !important;
 }
@@ -278,10 +226,6 @@ div .header_h0n39e {
   color: white;
 }
 
-#page-container {
-  background: #2E3029;
-}
-
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.license>ul>li:nth-child(1),
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.license>ul>li:nth-child(2),
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.license>ul>li:nth-child(3) {
@@ -305,10 +249,7 @@ div .header_h0n39e {
 #modalTitle,
 .footer_y4wzgs,
 .modal_1lylzj-o_O-padded_ke4dn3,
-#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div.buttons_vponqv>span:nth-child(2)>div>div>a {
-  background: grey !important;
-  color: white !important;
-}
+
 
 .link_1uvuyao-o_O-computing_1uwg40u,
 .link_1uvuyao-o_O-computing_1uwg40u:hover {
@@ -316,7 +257,7 @@ div .header_h0n39e {
 }
 
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div.buttons_vponqv>span:nth-child(2)>div>div>a {
-  border-color: white !important;
+  bordeScreenshot from 2019-10-07 11-52-40r-color: white !important;
 }
 
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.wrap_xyqcvi>div.scratchpad-wrap.wrapScratchpad_1jkna7i>div {
@@ -393,10 +334,4 @@ div .header_h0n39e {
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(3),
 #tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(3)>a {
   color: white !important;
-}
-
-/*hide ka extension program info*/
-
-#tutorial-content>div>div>div>div>div.scratchpad-wrap-outer>div.footer_crtwg>div.info_1db09pv>div.tabContent_8fl3ak>div>div:nth-child(3)>span {
-  display: none !important;
 }
