@@ -11,4 +11,4 @@ Using a css style injector, I reccomend using stylus, copy the [CSS](https://git
 
 For an even better experience, use this in conjunction with the [KA Extension](https://github.com/ka-extension/ka-extension-ts)
 
-![Preview](relative/path/to/img.jpg?raw=true "Title")
+![Preview](./kaEditorMod.png?raw=true "Title")
